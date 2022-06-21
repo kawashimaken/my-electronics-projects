@@ -1,10 +1,10 @@
 # my-electronics-projects
 
-## analog
+## Analog projects
 
 * first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
 
-## digital with micro controller
+## Digital projects with micro controllers
 
 ### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
