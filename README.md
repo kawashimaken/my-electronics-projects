@@ -1,5 +1,11 @@
 # my-electronics-projects
 
+## analog
+
+* first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
+
+## digital with micro controller
+
 * https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
 
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
@@ -21,8 +27,6 @@
 * https://github.com/kawashimaken/arduino-spider-robot
 
 * [servo is shaking] https://github.com/kawashimaken/esp32-joystick-remote-control-servos
-
-* first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
 
 * https://github.com/kawashimaken/esp32-internet-raido-v4
 
