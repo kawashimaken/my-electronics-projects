@@ -26,7 +26,7 @@
 
 * https://github.com/kawashimaken/esp32-internet-raido-v4
 
-* private, will be public soon https://github.com/kawashimaken/esp32-internet-radio-v5
+* **private now, but will be public soon** https://github.com/kawashimaken/esp32-internet-radio-v5
 
 * https://github.com/kawashimaken/esp32-walkie-talkie-v2
 
