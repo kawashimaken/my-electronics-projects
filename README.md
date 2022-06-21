@@ -1,6 +1,6 @@
 # my-electronics-projects
 
-## Analog projects
+## Analog-ish projects
 
 * first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
 
