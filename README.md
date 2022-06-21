@@ -6,25 +6,27 @@
 
 ## digital with micro controller
 
-* https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
-
+### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
 
-* STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
-
-* https://github.com/kawashimaken/wiimote-eps32-robot-arm
-
 * https://github.com/kawashimaken/turn-stepper-motor-to-rotary-encoder
-
-* use ESP32 with L298N via wiimote https://github.com/kawashimaken/esp32-L298N-wiimote
-
-* [not that good] use ESP32 with L298N via PS3 bluetooth controller https://github.com/kawashimaken/esp32-L298N-ps3-controller
-
-* https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter
 
 * https://github.com/kawashimaken/huskylens-unlock-treasure-box
 
 * https://github.com/kawashimaken/arduino-spider-robot
+
+### ESP8266
+* https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter
+
+### ESP32
+
+* https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
+
+* https://github.com/kawashimaken/wiimote-eps32-robot-arm
+
+* use ESP32 with L298N via wiimote https://github.com/kawashimaken/esp32-L298N-wiimote
+
+* [not that good] use ESP32 with L298N via PS3 bluetooth controller https://github.com/kawashimaken/esp32-L298N-ps3-controller
 
 * [servo is shaking] https://github.com/kawashimaken/esp32-joystick-remote-control-servos
 
@@ -33,6 +35,9 @@
 * **private now, but will be public soon** https://github.com/kawashimaken/esp32-internet-radio-v5
 
 * https://github.com/kawashimaken/esp32-walkie-talkie-v2
+
+### STM32
+* STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
 
 # not mine, but interested
 
