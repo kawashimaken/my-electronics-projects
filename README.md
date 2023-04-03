@@ -7,7 +7,7 @@
 ## Digital projects with micro controllers
 ### RP2040
 
-*https://github.com/kawashimaken/rp2040-esp32-experiment-board
+* https://github.com/kawashimaken/rp2040-esp32-experiment-board
 
 
 ### Arduino
