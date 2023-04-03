@@ -5,6 +5,10 @@
 * first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
 
 ## Digital projects with micro controllers
+### RP2040
+
+*https://github.com/kawashimaken/rp2040-esp32-experiment-board
+
 
 ### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
