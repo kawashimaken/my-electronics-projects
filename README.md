@@ -66,7 +66,10 @@
 
 * https://github.com/kawashimaken/esp32-internet-raido-v4
 
-* **private now, but will be public soon** https://github.com/kawashimaken/esp32-internet-radio-v5
+* **private now, but will be public soon** https://github.com/kawashimaken/esp32-internet-radio-v5* Internet Radio V7 (yoRadio)
+
+[![Watch the video](https://img.youtube.com/vi/7a9iGu3YC18/0.jpg)](https://www.youtube.com/watch?v=7a9iGu3YC18)
+
 
 * https://github.com/kawashimaken/esp32-walkie-talkie-v2
 
