@@ -15,7 +15,7 @@
 
 ### ATTiny
 
-[![Watch the video](https://www.youtube.com/v/QW_ub1S5uK4/0.jpg)](https://www.youtube.com/watch?v=QW_ub1S5uK4)
+[![Watch the video](https://www.youtube.com/vi/QW_ub1S5uK4/0.jpg)](https://www.youtube.com/watch?v=QW_ub1S5uK4)
 
 ### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
