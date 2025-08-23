@@ -34,6 +34,8 @@
 
 * [servo is shaking] https://github.com/kawashimaken/esp32-joystick-remote-control-servos
 
+[![Watch the video](https://img.youtube.com/vi/qa2ixbKXAfQ/0.jpg)](https://www.youtube.com/watch?v=qa2ixbKXAfQ)
+
 * https://github.com/kawashimaken/esp32-internet-raido-v4
 
 * **private now, but will be public soon** https://github.com/kawashimaken/esp32-internet-radio-v5
