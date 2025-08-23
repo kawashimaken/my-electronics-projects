@@ -27,11 +27,13 @@
 * https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
 
 * https://github.com/kawashimaken/wiimote-eps32-robot-arm
-[![](https://img.youtube.com/vi/TPcjP3Q70mc/0.jpg)](https://www.youtube.com/watch?v=TPcjP3Q70mc)
+
+[![Watch the video](https://img.youtube.com/vi/TPcjP3Q70mc/0.jpg)](https://www.youtube.com/watch?v=TPcjP3Q70mc)
 
 * use ESP32 with L298N via wiimote https://github.com/kawashimaken/esp32-L298N-wiimote
 
 * [not that good] use ESP32 with L298N via PS3 bluetooth controller https://github.com/kawashimaken/esp32-L298N-ps3-controller
+
 [![Watch the video](https://img.youtube.com/vi/PfHG8Qa2jiM/0.jpg)](https://www.youtube.com/watch?v=PfHG8Qa2jiM)
 
 * [servo is shaking] https://github.com/kawashimaken/esp32-joystick-remote-control-servos
@@ -46,9 +48,12 @@
 
 ### STM32
 * STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
-  [![Watch the video](https://img.youtube.com/vi/jCXw1tdk7D8/0.jpg)](https://www.youtube.com/watch?v=jCXw1tdk7D8)
+
+[![Watch the video](https://img.youtube.com/vi/jCXw1tdk7D8/0.jpg)](https://www.youtube.com/watch?v=jCXw1tdk7D8)
+
 * LoRa module RYLR993 Lite and Blue pill test :https://github.com/kawashimaken/rylr993-lite-bluepill-test-code
-  [![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
+
+[![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
 
 # not mine, but interested
 
