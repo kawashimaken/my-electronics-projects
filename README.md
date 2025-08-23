@@ -9,6 +9,8 @@
 
 * https://github.com/kawashimaken/rp2040-esp32-experiment-board
 
+[![[Watch the video](https://img.youtube.com/vi/p60-jE2-4uw/0.jpg)](https://www.youtube.com/watch?v=p60-jE2-4uw)
+
 
 ### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
