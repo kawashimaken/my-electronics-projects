@@ -17,18 +17,30 @@
 ### Arduino
 * https://github.com/kawashimaken/arduino-rotary-encoder-control-servo
 
+[![Watch the video](https://img.youtube.com/vi/p5afJRlpyuM/0.jpg)](https://www.youtube.com/watch?v=p5afJRlpyuM)
+
 * https://github.com/kawashimaken/turn-stepper-motor-to-rotary-encoder
+
+[![Watch the video](https://img.youtube.com/vi/WeZ-J6VnXnI/0.jpg)](https://www.youtube.com/watch?v=WeZ-J6VnXnI)
 
 * https://github.com/kawashimaken/huskylens-unlock-treasure-box
 
+[![Watch the video](https://img.youtube.com/vi/NLYeVqr4qt0/0.jpg)](https://www.youtube.com/watch?v=NLYeVqr4qt0)
+
 * https://github.com/kawashimaken/arduino-spider-robot
+
+[![Watch the video](http://img.youtube.com/vi/BmntMGtbWnE/0.jpg)](https://www.youtube.com/watch?v=BmntMGtbWnE)
 
 ### ESP8266
 * https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter
 
+[![Watch the video](https://img.youtube.com/vi/gD3KpWGXoV4/0.jpg)](https://www.youtube.com/watch?v=gD3KpWGXoV4)
+
 ### ESP32
 
 * https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
+
+[![Watch the video](https://img.youtube.com/vi/8IGkFBghzww/0.jpg)](https://www.youtube.com/watch?v=8IGkFBghzww)
 
 * https://github.com/kawashimaken/wiimote-eps32-robot-arm
 
