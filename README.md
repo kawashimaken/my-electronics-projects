@@ -31,6 +31,7 @@
 * use ESP32 with L298N via wiimote https://github.com/kawashimaken/esp32-L298N-wiimote
 
 * [not that good] use ESP32 with L298N via PS3 bluetooth controller https://github.com/kawashimaken/esp32-L298N-ps3-controller
+[![Watch the video](https://img.youtube.com/vi/PfHG8Qa2jiM/0.jpg)](https://www.youtube.com/watch?v=PfHG8Qa2jiM)
 
 * [servo is shaking] https://github.com/kawashimaken/esp32-joystick-remote-control-servos
 
