@@ -42,6 +42,8 @@
 
 ### STM32
 * STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
+* LoRa module RYLR993 Lite and Blue pill test :https://github.com/kawashimaken/rylr993-lite-bluepill-test-code
+  [![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
 
 # not mine, but interested
 
