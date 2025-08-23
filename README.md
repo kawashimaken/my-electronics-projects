@@ -27,6 +27,7 @@
 * https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now
 
 * https://github.com/kawashimaken/wiimote-eps32-robot-arm
+[![](https://img.youtube.com/vi/TPcjP3Q70mc/0.jpg)](https://www.youtube.com/watch?v=TPcjP3Q70mc)
 
 * use ESP32 with L298N via wiimote https://github.com/kawashimaken/esp32-L298N-wiimote
 
