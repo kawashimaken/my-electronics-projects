@@ -4,6 +4,8 @@
 
 * first pcb challenge https://github.com/kawashimaken/mic-tester-lm358-lm386
 
+[![Watch the video](https://img.youtube.com/vi/nFrnlTu5QJI/0.jpg)](https://www.youtube.com/watch?v=nFrnlTu5QJI)
+
 ## Digital projects with micro controllers
 ### RP2040
 
