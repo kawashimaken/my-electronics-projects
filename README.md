@@ -82,6 +82,12 @@
 
 [![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
 
+### BLDC related projects
+
+* dual bldc driver using ESP32 + simpleFOC
+
+[![Watch the video](https://img.youtube.com/vi/IgbAx9IfV7Q/0.jpg)](https://www.youtube.com/watch?v=IgbAx9IfV7Q)
+
 # not mine, but interested
 
 * MF Shield
