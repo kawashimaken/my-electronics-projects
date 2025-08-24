@@ -84,7 +84,8 @@
   [![Watch the video](https://img.youtube.com/vi/jCXw1tdk7D8/0.jpg)](https://www.youtube.com/watch?v=jCXw1tdk7D8)
 
 * LoRa Module RYLR993 Lite and Blue Pill Test  
-  [GitHub Repository](https://github.com/kawashimaken/rylr993-lite-bluepill-test-code)  
+  [GitHub Repository](https://github.com/kawashimaken/rylr993-lite-bluepill-test-code)
+  Published : 2025/08/19
   [![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
 
 ### BLDC Related Projects
