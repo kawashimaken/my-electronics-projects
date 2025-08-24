@@ -73,6 +73,11 @@
 
 * https://github.com/kawashimaken/esp32-walkie-talkie-v2
 
+* ESP32 DC motor driver board
+
+[![Watch the video](https://img.youtube.com/vi/TynKvJ_xZA8/0.jpg)](https://www.youtube.com/watch?v=TynKvJ_xZA8)
+
+
 ### STM32
 * STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
 
