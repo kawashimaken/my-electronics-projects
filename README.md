@@ -34,6 +34,11 @@
 
 [![Watch the video](http://img.youtube.com/vi/BmntMGtbWnE/0.jpg)](https://www.youtube.com/watch?v=BmntMGtbWnE)
 
+* How to make an Arduino-based FM Radio (ATMEGA328 + RDA5807M)
+
+[![Watch the video](https://img.youtube.com/vi/5V7dXCTpLK0/0.jpg)](https://www.youtube.com/watch?v=5V7dXCTpLK0)
+
+
 * A simple Arduino-based oscilloscope
 
 [![Watch the video](https://img.youtube.com/vi/1RsmJy6X9Yg/0.jpg)](https://www.youtube.com/watch?v=1RsmJy6X9Yg)
