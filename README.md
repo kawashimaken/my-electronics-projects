@@ -93,6 +93,13 @@
 
 [![Watch the video](https://img.youtube.com/vi/IgbAx9IfV7Q/0.jpg)](https://www.youtube.com/watch?v=IgbAx9IfV7Q)
 
+## others
+
+* TP5400 charging board
+
+ [![Watch the video](https://img.youtube.com/vi/ArDzwmH5L2k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ArDzwmH5L2k)
+
+
 # not mine, but interested
 
 * MF Shield
