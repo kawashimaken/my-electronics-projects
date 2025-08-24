@@ -73,7 +73,11 @@
   [![Watch the video](https://img.youtube.com/vi/qa2ixbKXAfQ/0.jpg)](https://www.youtube.com/watch?v=qa2ixbKXAfQ)
 
 * [ESP32 Internet Radio V4](https://github.com/kawashimaken/esp32-internet-raido-v4)  
-* Private now, will be public soon: [ESP32 Internet Radio V5 / YoRadio](https://github.com/kawashimaken/esp32-internet-radio-v5)  
+* Private now, will be public soon: [ESP32 Internet Radio V5 / YoRadio](https://github.com/kawashimaken/esp32-internet-radio-v5)
+* ESP32 Internet Radio V7 (yoRadio)
+  
+  Published : 2025/05/06
+  
   [![Watch the video](https://img.youtube.com/vi/7a9iGu3YC18/0.jpg)](https://www.youtube.com/watch?v=7a9iGu3YC18)
 
 * [ESP32 Walkie Talkie V2](https://github.com/kawashimaken/esp32-walkie-talkie-v2)  
