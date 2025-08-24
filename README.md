@@ -77,6 +77,11 @@
 
 [![Watch the video](https://img.youtube.com/vi/TynKvJ_xZA8/0.jpg)](https://www.youtube.com/watch?v=TynKvJ_xZA8)
 
+* ESP32 remote control
+
+[![Watch the video](https://img.youtube.com/vi/Q5oMYjQe5-g/0.jpg)](https://www.youtube.com/watch?v=Q5oMYjQe5-g)
+
+
 
 ### STM32
 * STM32F103 with Arduino IDE, Hello world  https://github.com/kawashimaken/STM32F103C8T6
