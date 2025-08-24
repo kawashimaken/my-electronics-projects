@@ -10,7 +10,10 @@
 
 ### RP2040
 
-* [RP2040 + ESP32 Experiment Board](https://github.com/kawashimaken/rp2040-esp32-experiment-board)  
+* [RP2040 + ESP32 Experiment Board](https://github.com/kawashimaken/rp2040-esp32-experiment-board)
+
+  Published : 2025/07/14
+  
   [![Watch the video](https://img.youtube.com/vi/p60-jE2-4uw/0.jpg)](https://www.youtube.com/watch?v=p60-jE2-4uw)
 
 ### ATTiny
@@ -43,7 +46,10 @@
 * [MAX7219 YouTube Subscriber Counter](https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter)  
   [![Watch the video](https://img.youtube.com/vi/gD3KpWGXoV4/0.jpg)](https://www.youtube.com/watch?v=gD3KpWGXoV4)
 
-* ESPBoy  
+* ESPBoy
+
+  Published : 2025/07/01
+  
   [![Watch the video](https://img.youtube.com/vi/Rwc5jAPaXKA/0.jpg)](https://www.youtube.com/watch?v=Rwc5jAPaXKA)
 
 ### ESP32
