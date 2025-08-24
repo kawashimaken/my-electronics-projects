@@ -34,6 +34,11 @@
 
 [![Watch the video](http://img.youtube.com/vi/BmntMGtbWnE/0.jpg)](https://www.youtube.com/watch?v=BmntMGtbWnE)
 
+* A simple Arduino-based oscilloscope
+
+[![Watch the video](https://img.youtube.com/vi/1RsmJy6X9Yg/0.jpg)](https://www.youtube.com/watch?v=1RsmJy6X9Yg)
+
+
 ### ESP8266
 * https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter
 
