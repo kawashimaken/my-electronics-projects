@@ -98,6 +98,10 @@
 * TP5400 charging board
 
  [![Watch the video](https://img.youtube.com/vi/ArDzwmH5L2k/0.jpg)](https://www.youtube.com/watch?v=ArDzwmH5L2k)
+ 
+ * usb host (MAX3421e)
+
+[![Watch the video](https://img.youtube.com/vi/xaTKUpOzTEs/0.jpg)](https://www.youtube.com/watch?v=xaTKUpOzTEs)
 
 
 # not mine, but interested
