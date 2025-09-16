@@ -87,6 +87,9 @@
 * ESP32 Remote Control  
   [![Watch the video](https://img.youtube.com/vi/Q5oMYjQe5-g/0.jpg)](https://www.youtube.com/watch?v=Q5oMYjQe5-g)
 
+* ESP32 Mozzi Synthesizer
+  [GitHub Repository](https://github.com/kawashimaken/esp32-mozzi-synthesizer-code)  
+
 ### STM32
 
 * STM32F103 with Arduino IDE, Hello World  
