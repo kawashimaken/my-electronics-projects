@@ -89,6 +89,7 @@
 
 * ESP32 Mozzi Synthesizer
   [GitHub Repository](https://github.com/kawashimaken/esp32-mozzi-synthesizer-code)
+  
   [![Watch the video](https://img.youtube.com/vi/AfLHgAreUpU/0.jpg)](https://www.youtube.com/watch?v=AfLHgAreUpU)
 
 ### STM32
