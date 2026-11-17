@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/mic-tester-lm358-lm386">First PCB Challenge</a></strong>
+<strong><a href="https://github.com/kawashimaken/mic-tester-lm358-lm386">First PCB Challenge （GitHub）</a></strong>
 
 ## Digital Projects with Microcontrollers
 
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/rp2040-esp32-experiment-board">RP2040 + ESP32 Experiment Board</a></strong>
+<strong><a href="https://github.com/kawashimaken/rp2040-esp32-experiment-board">RP2040 + ESP32 Experiment Board （GitHub）</a></strong>
 
 Published: 2025/07/14
 
@@ -32,7 +32,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://www.youtube.com/watch?v=QW_ub1S5uK4">Secret Mission from PCBWay!</a></strong>
+<strong><a href="https://www.youtube.com/watch?v=QW_ub1S5uK4">Secret Mission from PCBWay! （YouTube）</a></strong>
 
 ### Arduino
 
@@ -42,7 +42,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/arduino-rotary-encoder-control-servo">Rotary Encoder Control Servo</a></strong>
+<strong><a href="https://github.com/kawashimaken/arduino-rotary-encoder-control-servo">Rotary Encoder Control Servo （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/WeZ-J6VnXnI" target="_blank" rel="noopener noreferrer">
@@ -50,7 +50,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/turn-stepper-motor-to-rotary-encoder">Turn Stepper Motor to Rotary Encoder</a></strong>
+<strong><a href="https://github.com/kawashimaken/turn-stepper-motor-to-rotary-encoder">Turn Stepper Motor to Rotary Encoder （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/NLYeVqr4qt0" target="_blank" rel="noopener noreferrer">
@@ -58,7 +58,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/huskylens-unlock-treasure-box">HuskyLens Unlock Treasure Box</a></strong>
+<strong><a href="https://github.com/kawashimaken/huskylens-unlock-treasure-box">HuskyLens Unlock Treasure Box （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/BmntMGtbWnE" target="_blank" rel="noopener noreferrer">
@@ -66,7 +66,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/arduino-spider-robot">Arduino Spider Robot</a></strong>
+<strong><a href="https://github.com/kawashimaken/arduino-spider-robot">Arduino Spider Robot （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/5V7dXCTpLK0" target="_blank" rel="noopener noreferrer">
@@ -92,7 +92,7 @@ Published: 2025/07/14
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter">MAX7219 YouTube Subscriber Counter</a></strong>
+<strong><a href="https://github.com/kawashimaken/esp8266_max7219_youtube_subscriber_counter">MAX7219 YouTube Subscriber Counter （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/Rwc5jAPaXKA" target="_blank" rel="noopener noreferrer">
@@ -112,7 +112,7 @@ Published: 2025/07/01
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now">ESP32 Rotary Encoder Remote Control (ESP-NOW)</a></strong>
+<strong><a href="https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now">ESP32 Rotary Encoder Remote Control (ESP-NOW) （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/TPcjP3Q70mc" target="_blank" rel="noopener noreferrer">
@@ -120,7 +120,7 @@ Published: 2025/07/01
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/wiimote-eps32-robot-arm">Wiimote ESP32 Robot Arm</a></strong>
+<strong><a href="https://github.com/kawashimaken/wiimote-eps32-robot-arm">Wiimote ESP32 Robot Arm （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/PfHG8Qa2jiM" target="_blank" rel="noopener noreferrer">
@@ -130,7 +130,7 @@ Published: 2025/07/01
 
 <strong>Use ESP32 with L298N via Wiimote</strong>
 
-<a href="https://github.com/kawashimaken/esp32-L298N-wiimote">GitHub Repository</a>
+<a href="https://github.com/kawashimaken/esp32-L298N-wiimote">GitHub Repository （GitHub）</a>
 
 <div align="center">
   <a href="https://youtu.be/qa2ixbKXAfQ" target="_blank" rel="noopener noreferrer">
@@ -140,7 +140,7 @@ Published: 2025/07/01
 
 <strong>ESP32 Joystick Remote Control Servos (servo is shaking)</strong>
 
-<a href="https://github.com/kawashimaken/esp32-joystick-remote-control-servos">GitHub Repository</a>
+<a href="https://github.com/kawashimaken/esp32-joystick-remote-control-servos">GitHub Repository （GitHub）</a>
 
 <div align="center">
   <a href="https://youtu.be/7a9iGu3YC18" target="_blank" rel="noopener noreferrer">
@@ -176,11 +176,11 @@ Published: 2025/05/06
 
 <strong>ESP32 Mozzi Synthesizer</strong>
 
-<a href="https://github.com/kawashimaken/esp32-mozzi-synthesizer-code">GitHub Repository</a>
+<a href="https://github.com/kawashimaken/esp32-mozzi-synthesizer-code">GitHub Repository （GitHub）</a>
 
-<strong><a href="https://github.com/kawashimaken/esp32-internet-raido-v4">ESP32 Internet Radio V4</a></strong>
+<strong><a href="https://github.com/kawashimaken/esp32-internet-raido-v4">ESP32 Internet Radio V4 （GitHub）</a></strong>
 
-<strong><a href="https://github.com/kawashimaken/esp32-internet-radio-v5">ESP32 Internet Radio V5 / YoRadio</a></strong>
+<strong><a href="https://github.com/kawashimaken/esp32-internet-radio-v5">ESP32 Internet Radio V5 / YoRadio （GitHub）</a></strong>
 
 <em>Private now, will be public soon</em>
 
@@ -194,7 +194,7 @@ Published: 2025/05/06
 
 <strong>STM32F103 with Arduino IDE, Hello World</strong>
 
-<a href="https://github.com/kawashimaken/STM32F103C8T6">GitHub Repository</a>
+<a href="https://github.com/kawashimaken/STM32F103C8T6">GitHub Repository （GitHub）</a>
 
 <div align="center">
   <a href="https://youtu.be/n4BayMWz080" target="_blank" rel="noopener noreferrer">
@@ -214,7 +214,7 @@ Published: 2025/08/19
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC</a></strong>
+<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）</a></strong>
 
 <div align="center">
   <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
@@ -222,7 +222,7 @@ Published: 2025/08/19
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car</a></strong>
+<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car （GitHub）</a></strong>
 
 ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
 
@@ -246,19 +246,19 @@ ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning int
 
 ## Not Mine, but Interesting
 
-- [MF Shield](https://github.com/dncoder/MFShield)
-- [ST7789 Lib for Raspberry Pi Zero](https://github.com/solinnovay/Python_ST7789)
-- [SAA1099 + Arduino (play MIDI tunes)](https://github.com/Bobcatmodder/SAATunes)
-- [Brownie: Offline object detection app for M5StickV](https://github.com/ksasao/brownie)
-- [Adafruit Python GPIO Lib](https://github.com/adafruit/Adafruit_Blinka)
-- [Heltec ESP32 Boards](https://github.com/HelTecAutomation/Heltec_ESP32)
-- [ESP32Wiimote Arduino Library](https://github.com/bigw00d/Arduino-ESP32Wiimote)
-- [Balancing Robot](https://github.com/kawashimaken/BalancingWii)
-- [ESP32 FFT VU Meter](https://github.com/s-marley/ESP32_FFT_VU)
-- [M5StickC Plus Internet Radio](https://github.com/prashantkamdar/M5StickCPLUS.internet_radio)
-- [ESP32 Walkie Talkie](https://github.com/atomic14/esp32-walkie-talkie)
+- [MF Shield （GitHub）](https://github.com/dncoder/MFShield)
+- [ST7789 Lib for Raspberry Pi Zero （GitHub）](https://github.com/solinnovay/Python_ST7789)
+- [SAA1099 + Arduino (play MIDI tunes) （GitHub）](https://github.com/Bobcatmodder/SAATunes)
+- [Brownie: Offline object detection app for M5StickV （GitHub）](https://github.com/ksasao/brownie)
+- [Adafruit Python GPIO Lib （GitHub）](https://github.com/adafruit/Adafruit_Blinka)
+- [Heltec ESP32 Boards （GitHub）](https://github.com/HelTecAutomation/Heltec_ESP32)
+- [ESP32Wiimote Arduino Library （GitHub）](https://github.com/bigw00d/Arduino-ESP32Wiimote)
+- [Balancing Robot （GitHub）](https://github.com/kawashimaken/BalancingWii)
+- [ESP32 FFT VU Meter （GitHub）](https://github.com/s-marley/ESP32_FFT_VU)
+- [M5StickC Plus Internet Radio （GitHub）](https://github.com/prashantkamdar/M5StickCPLUS.internet_radio)
+- [ESP32 Walkie Talkie （GitHub）](https://github.com/atomic14/esp32-walkie-talkie)
 
 ## Learn From
 
-- [That Project](https://github.com/kawashimaken/ThatProject)
-- [Peng Zhihui](https://github.com/peng-zhihui)
+- [That Project （GitHub）](https://github.com/kawashimaken/ThatProject)
+- [Peng Zhihui （GitHub）](https://github.com/peng-zhihui)
