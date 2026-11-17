@@ -252,7 +252,7 @@ Charging and power-management related modules.
 
 <div align="center">
   <a href="https://youtu.be/ArDzwmH5L2k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/ArDzwmH5L2k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/ArDzwmH5L2k/hqdefault.jpg';" alt="TP5400 Charging Board" width="800" height="450" style="object-fit: cover;" />
+    <img src="https://img.youtube.com/vi/ArDzwmH5L2k/hqdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/ArDzwmH5L2k/hqdefault.jpg';" alt="TP5400 Charging Board" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
