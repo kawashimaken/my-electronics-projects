@@ -272,11 +272,11 @@ Interface/helper modules and accessory experiments.
 
 <div align="center">
   <a href="https://youtu.be/D4-Wnb2-Opc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/D4-Wnb2-Opc/hqdefault.jpg" alt="Project Video D4-Wnb2-Opc" width="800" />
+    <img src="https://img.youtube.com/vi/D4-Wnb2-Opc/hqdefault.jpg" alt="SmartKnob on a Raspberry Pi Pico" width="800" />
   </a>
 </div>
 
-<strong><a href="https://youtu.be/D4-Wnb2-Opc">Project Video D4-Wnb2-Opc （YouTube）</a></strong>
+<strong><a href="https://youtu.be/D4-Wnb2-Opc">SmartKnob on a Raspberry Pi Pico （YouTube）</a></strong>
 
 ## External Resources
 Projects and creators I learn from or reference, separated from my own builds.
