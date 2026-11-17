@@ -301,6 +301,14 @@ Interface/helper modules and accessory experiments.
 
 <strong><a href="https://youtu.be/D4-Wnb2-Opc">SmartKnob on a Raspberry Pi Pico （YouTube）</a></strong>
 
+<div align="center">
+  <a href="https://youtu.be/8y8xn2v0iEs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/8y8xn2v0iEs/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/8y8xn2v0iEs/hqdefault.jpg';" alt="Smartknob with powerful driver!!! (second modification)" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/8y8xn2v0iEs">Smartknob with powerful driver!!! (second modification) （YouTube）</a></strong>
+
 ## External Resources
 Projects and creators I learn from or reference, separated from my own builds.
 
