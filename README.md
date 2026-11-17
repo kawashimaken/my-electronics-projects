@@ -309,6 +309,14 @@ Interface/helper modules and accessory experiments.
 
 <strong><a href="https://youtu.be/8y8xn2v0iEs">Smartknob with powerful driver!!! (second modification) （YouTube）</a></strong>
 
+<div align="center">
+  <a href="https://youtu.be/7kSSMUdl7_k" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/7kSSMUdl7_k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/7kSSMUdl7_k/hqdefault.jpg';" alt="STurn any BLDC motor to a Smartknob?" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/7kSSMUdl7_k">STurn any BLDC motor to a Smartknob? （YouTube）</a></strong>
+
 ## External Resources
 Projects and creators I learn from or reference, separated from my own builds.
 
