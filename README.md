@@ -50,11 +50,11 @@ Motor-control focused ESP32 builds using BLDC drivers and balancing control loop
 
 <div align="center">
   <a href="https://youtu.be/7kSSMUdl7_k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/7kSSMUdl7_k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/7kSSMUdl7_k/hqdefault.jpg';" alt="STurn any BLDC motor to a Smartknob?" width="800" height="450" style="object-fit: cover;" />
+    <img src="https://img.youtube.com/vi/7kSSMUdl7_k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/7kSSMUdl7_k/hqdefault.jpg';" alt="Turn any BLDC motor to a Smartknob?" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
-<strong><a href="https://youtu.be/7kSSMUdl7_k">STurn any BLDC motor to a Smartknob? （YouTube）</a></strong>
+<strong><a href="https://youtu.be/7kSSMUdl7_k">Turn any BLDC motor to a Smartknob? （YouTube）</a></strong>
 
 ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
 
