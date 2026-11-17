@@ -281,6 +281,17 @@ Interface/helper modules and accessory experiments.
 <a href="https://github.com/kawashimaken/general-purpose-ken-interface">GitHub Repository （GitHub）</a>
 
 
+<div align="center">
+  <a href="https://youtu.be/sNuc83q-v-A" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/sNuc83q-v-A/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/sNuc83q-v-A/hqdefault.jpg';" alt="The AI Voice Chatbot You Can Build with ESP32-S3!" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/sNuc83q-v-A">The AI Voice Chatbot You Can Build with ESP32-S3! （YouTube）</a></strong>
+
+<a href="https://github.com/kawashimaken/general-purpose-ken-interface/tree/main/kicad/esp32-s3-with-ken-interface">GitHub Project Page （GitHub）</a>
+
+
 
 <div align="center">
   <a href="https://youtu.be/D4-Wnb2-Opc" target="_blank" rel="noopener noreferrer">
