@@ -1,6 +1,19 @@
 # My Electronics Projects
 
-## Analog-ish Projects
+## Featured
+A quick look at representative projects across hardware, robotics, and embedded control.
+
+- [First PCB Challenge （GitHub）](https://github.com/kawashimaken/mic-tester-lm358-lm386) / [Video （YouTube）](https://youtu.be/nFrnlTu5QJI)
+- [RP2040 + ESP32 Experiment Board （GitHub）](https://github.com/kawashimaken/rp2040-esp32-experiment-board) / [Video （YouTube）](https://youtu.be/p60-jE2-4uw)
+- [Self-balancing Car （GitHub）](https://github.com/kawashimaken/self-balancing-car-00) / [Video （YouTube）](https://youtu.be/T2_N7V6W7gY)
+- [ESP32 Rotary Encoder Remote Control (ESP-NOW) （GitHub）](https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now) / [Video （YouTube）](https://youtu.be/8IGkFBghzww)
+- [Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）](https://github.com/kawashimaken/dual-bldc-driver-simplefoc) / [Video （YouTube）](https://youtu.be/IgbAx9IfV7Q)
+
+## Platform-Based Projects
+Projects grouped by hardware platform so you can quickly find examples for your target board.
+
+### Non-MCU / Analog
+Pure analog or board-level experiments not centered on a microcontroller.
 
 <div align="center">
   <a href="https://youtu.be/nFrnlTu5QJI" target="_blank" rel="noopener noreferrer">
@@ -10,9 +23,8 @@
 
 <strong><a href="https://github.com/kawashimaken/mic-tester-lm358-lm386">First PCB Challenge （GitHub）</a></strong>
 
-## Digital Projects with Microcontrollers
-
 ### RP2040
+Experiments and prototyping projects around RP2040 and mixed-board setups.
 
 <div align="center">
   <a href="https://youtu.be/p60-jE2-4uw" target="_blank" rel="noopener noreferrer">
@@ -25,6 +37,7 @@
 Published: 2025/07/14
 
 ### ATTiny
+Small-footprint builds using ATTiny-class microcontrollers.
 
 <div align="center">
   <a href="https://youtu.be/QW_ub1S5uK4" target="_blank" rel="noopener noreferrer">
@@ -35,6 +48,7 @@ Published: 2025/07/14
 <strong><a href="https://www.youtube.com/watch?v=QW_ub1S5uK4">Secret Mission from PCBWay! （YouTube）</a></strong>
 
 ### Arduino
+General Arduino builds including control, robotics, and simple instrumentation.
 
 <div align="center">
   <a href="https://youtu.be/p5afJRlpyuM" target="_blank" rel="noopener noreferrer">
@@ -85,6 +99,7 @@ Published: 2025/07/14
 <strong>A Simple Arduino-based Oscilloscope</strong>
 
 ### ESP8266
+ESP8266-focused IoT and display-driven mini projects.
 
 <div align="center">
   <a href="https://youtu.be/gD3KpWGXoV4" target="_blank" rel="noopener noreferrer">
@@ -105,6 +120,7 @@ Published: 2025/07/14
 Published: 2025/07/01
 
 ### ESP32
+ESP32 projects for wireless control, audio, robotics, and motor control.
 
 <div align="center">
   <a href="https://youtu.be/8IGkFBghzww" target="_blank" rel="noopener noreferrer">
@@ -184,7 +200,29 @@ Published: 2025/05/06
 
 <em>Private now, will be public soon</em>
 
+#### BLDC / Motion Control (ESP32 + SimpleFOC)
+Motor-control focused ESP32 builds using BLDC drivers and balancing control loops.
+
+<div align="center">
+  <a href="https://youtu.be/IgbAx9IfV7Q" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/IgbAx9IfV7Q/maxresdefault.jpg" alt="Dual BLDC Driver using ESP32 + SimpleFOC" width="800" />
+  </a>
+</div>
+
+<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）</a></strong>
+
+<div align="center">
+  <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" alt="Self-balancing Car" width="800" />
+  </a>
+</div>
+
+<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car （GitHub）</a></strong>
+
+ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
+
 ### STM32
+STM32 experiments around firmware bring-up and module integration.
 
 <div align="center">
   <a href="https://youtu.be/jCXw1tdk7D8" target="_blank" rel="noopener noreferrer">
@@ -206,27 +244,11 @@ Published: 2025/05/06
 
 Published: 2025/08/19
 
-### BLDC Related Projects
+## Other Projects
+Non-platform-specific builds and small hardware utilities.
 
-<div align="center">
-  <a href="https://youtu.be/IgbAx9IfV7Q" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/IgbAx9IfV7Q/maxresdefault.jpg" alt="Dual BLDC Driver using ESP32 + SimpleFOC" width="800" />
-  </a>
-</div>
-
-<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）</a></strong>
-
-<div align="center">
-  <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" alt="Self-balancing Car" width="800" />
-  </a>
-</div>
-
-<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car （GitHub）</a></strong>
-
-ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
-
-## Others
+### Power
+Charging and power-management related modules.
 
 <div align="center">
   <a href="https://youtu.be/ArDzwmH5L2k" target="_blank" rel="noopener noreferrer">
@@ -236,6 +258,9 @@ ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning int
 
 <strong>TP5400 Charging Board</strong>
 
+### Interfaces & Tools
+Interface/helper modules and accessory experiments.
+
 <div align="center">
   <a href="https://youtu.be/xaTKUpOzTEs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/xaTKUpOzTEs/maxresdefault.jpg" alt="USB Host (MAX3421e)" width="800" />
@@ -244,7 +269,10 @@ ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning int
 
 <strong>USB Host (MAX3421e)</strong>
 
-## Not Mine, but Interesting
+## External Resources
+Projects and creators I learn from or reference, separated from my own builds.
+
+### Not Mine, but Interesting
 
 - [MF Shield （GitHub）](https://github.com/dncoder/MFShield)
 - [ST7789 Lib for Raspberry Pi Zero （GitHub）](https://github.com/solinnovay/Python_ST7789)
@@ -258,7 +286,7 @@ ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning int
 - [M5StickC Plus Internet Radio （GitHub）](https://github.com/prashantkamdar/M5StickCPLUS.internet_radio)
 - [ESP32 Walkie Talkie （GitHub）](https://github.com/atomic14/esp32-walkie-talkie)
 
-## Learn From
+### Learn From
 
 - [That Project （GitHub）](https://github.com/kawashimaken/ThatProject)
 - [Peng Zhihui （GitHub）](https://github.com/peng-zhihui)
