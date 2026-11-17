@@ -107,8 +107,12 @@
 
 ### BLDC Related Projects
 
-* Dual BLDC Driver using ESP32 + SimpleFOC  
+* [Dual BLDC Driver using ESP32 + SimpleFOC](https://github.com/kawashimaken/dual-bldc-driver-simplefoc)  
   [![Watch the video](https://img.youtube.com/vi/IgbAx9IfV7Q/0.jpg)](https://www.youtube.com/watch?v=IgbAx9IfV7Q)
+
+* [Self-balancing Car](https://github.com/kawashimaken/self-balancing-car-00)  
+  ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.  
+  [![Watch the video](https://img.youtube.com/vi/T2_N7V6W7gY/0.jpg)](https://youtu.be/T2_N7V6W7gY)
 
 ## Others
 
