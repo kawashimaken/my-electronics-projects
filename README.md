@@ -92,7 +92,7 @@ General Arduino builds including control, robotics, and simple instrumentation.
 
 <div align="center">
   <a href="https://youtu.be/1RsmJy6X9Yg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/1RsmJy6X9Yg/maxresdefault.jpg" alt="A Simple Arduino-based Oscilloscope" width="800" />
+    <img src="https://img.youtube.com/vi/1RsmJy6X9Yg/hqdefault.jpg" alt="A Simple Arduino-based Oscilloscope" width="800" />
   </a>
 </div>
 
