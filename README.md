@@ -271,6 +271,18 @@ Interface/helper modules and accessory experiments.
 
 
 <div align="center">
+  <a href="https://youtu.be/DMRa_tTHA18" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/DMRa_tTHA18/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/DMRa_tTHA18/hqdefault.jpg';" alt="Stop Stacking Your Dev Boards — There's a Better Way" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/DMRa_tTHA18">Stop Stacking Your Dev Boards — There's a Better Way （YouTube）</a></strong>
+
+<a href="https://github.com/kawashimaken/general-purpose-ken-interface">GitHub Repository （GitHub）</a>
+
+
+
+<div align="center">
   <a href="https://youtu.be/D4-Wnb2-Opc" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/D4-Wnb2-Opc/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/D4-Wnb2-Opc/hqdefault.jpg';" alt="SmartKnob on a Raspberry Pi Pico" width="800" height="450" style="object-fit: cover;" />
   </a>
