@@ -12,16 +12,51 @@ A quick look at representative projects across hardware, robotics, and embedded 
 ## Platform-Based Projects
 Projects grouped by hardware platform so you can quickly find examples for your target board.
 
-### Non-MCU / Analog
-Pure analog or board-level experiments not centered on a microcontroller.
+### BLDC / Motion Control (ESP32 + SimpleFOC)
+Motor-control focused ESP32 builds using BLDC drivers and balancing control loops.
 
 <div align="center">
-  <a href="https://youtu.be/nFrnlTu5QJI" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/nFrnlTu5QJI/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/nFrnlTu5QJI/hqdefault.jpg';" alt="First PCB Challenge" width="800" height="450" style="object-fit: cover;" />
+  <a href="https://youtu.be/IgbAx9IfV7Q" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/IgbAx9IfV7Q/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/IgbAx9IfV7Q/hqdefault.jpg';" alt="Dual BLDC Driver using ESP32 + SimpleFOC" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
-<strong><a href="https://github.com/kawashimaken/mic-tester-lm358-lm386">First PCB Challenge （GitHub）</a></strong>
+<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）</a></strong>
+
+<div align="center">
+  <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/T2_N7V6W7gY/hqdefault.jpg';" alt="Self-balancing Car" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car （GitHub）</a></strong>
+
+
+<div align="center">
+  <a href="https://youtu.be/D4-Wnb2-Opc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/D4-Wnb2-Opc/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/D4-Wnb2-Opc/hqdefault.jpg';" alt="SmartKnob on a Raspberry Pi Pico" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/D4-Wnb2-Opc">SmartKnob on a Raspberry Pi Pico （YouTube）</a></strong>
+
+<div align="center">
+  <a href="https://youtu.be/8y8xn2v0iEs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/8y8xn2v0iEs/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/8y8xn2v0iEs/hqdefault.jpg';" alt="Smartknob with powerful driver!!! (second modification)" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/8y8xn2v0iEs">Smartknob with powerful driver!!! (second modification) （YouTube）</a></strong>
+
+<div align="center">
+  <a href="https://youtu.be/7kSSMUdl7_k" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/7kSSMUdl7_k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/7kSSMUdl7_k/hqdefault.jpg';" alt="STurn any BLDC motor to a Smartknob?" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://youtu.be/7kSSMUdl7_k">STurn any BLDC motor to a Smartknob? （YouTube）</a></strong>
+
+ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
 
 ### RP2040
 Experiments and prototyping projects around RP2040 and mixed-board setups.
@@ -200,26 +235,6 @@ Published: 2025/05/06
 
 <em>Private now, will be public soon</em>
 
-#### BLDC / Motion Control (ESP32 + SimpleFOC)
-Motor-control focused ESP32 builds using BLDC drivers and balancing control loops.
-
-<div align="center">
-  <a href="https://youtu.be/IgbAx9IfV7Q" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/IgbAx9IfV7Q/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/IgbAx9IfV7Q/hqdefault.jpg';" alt="Dual BLDC Driver using ESP32 + SimpleFOC" width="800" height="450" style="object-fit: cover;" />
-  </a>
-</div>
-
-<strong><a href="https://github.com/kawashimaken/dual-bldc-driver-simplefoc">Dual BLDC Driver using ESP32 + SimpleFOC （GitHub）</a></strong>
-
-<div align="center">
-  <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/T2_N7V6W7gY/hqdefault.jpg';" alt="Self-balancing Car" width="800" height="450" style="object-fit: cover;" />
-  </a>
-</div>
-
-<strong><a href="https://github.com/kawashimaken/self-balancing-car-00">Self-balancing Car （GitHub）</a></strong>
-
-ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.
 
 ### STM32
 STM32 experiments around firmware bring-up and module integration.
@@ -243,6 +258,17 @@ STM32 experiments around firmware bring-up and module integration.
 <strong>LoRa Module RYLR993 Lite and Blue Pill Test</strong>
 
 Published: 2025/08/19
+
+### Non-MCU / Analog
+Pure analog or board-level experiments not centered on a microcontroller.
+
+<div align="center">
+  <a href="https://youtu.be/nFrnlTu5QJI" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/nFrnlTu5QJI/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/nFrnlTu5QJI/hqdefault.jpg';" alt="First PCB Challenge" width="800" height="450" style="object-fit: cover;" />
+  </a>
+</div>
+
+<strong><a href="https://github.com/kawashimaken/mic-tester-lm358-lm386">First PCB Challenge （GitHub）</a></strong>
 
 ## Other Projects
 Non-platform-specific builds and small hardware utilities.
@@ -291,31 +317,6 @@ Interface/helper modules and accessory experiments.
 
 <a href="https://github.com/kawashimaken/general-purpose-ken-interface/tree/main/kicad/esp32-s3-with-ken-interface">GitHub Project Page （GitHub）</a>
 
-
-
-<div align="center">
-  <a href="https://youtu.be/D4-Wnb2-Opc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/D4-Wnb2-Opc/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/D4-Wnb2-Opc/hqdefault.jpg';" alt="SmartKnob on a Raspberry Pi Pico" width="800" height="450" style="object-fit: cover;" />
-  </a>
-</div>
-
-<strong><a href="https://youtu.be/D4-Wnb2-Opc">SmartKnob on a Raspberry Pi Pico （YouTube）</a></strong>
-
-<div align="center">
-  <a href="https://youtu.be/8y8xn2v0iEs" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/8y8xn2v0iEs/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/8y8xn2v0iEs/hqdefault.jpg';" alt="Smartknob with powerful driver!!! (second modification)" width="800" height="450" style="object-fit: cover;" />
-  </a>
-</div>
-
-<strong><a href="https://youtu.be/8y8xn2v0iEs">Smartknob with powerful driver!!! (second modification) （YouTube）</a></strong>
-
-<div align="center">
-  <a href="https://youtu.be/7kSSMUdl7_k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/7kSSMUdl7_k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/7kSSMUdl7_k/hqdefault.jpg';" alt="STurn any BLDC motor to a Smartknob?" width="800" height="450" style="object-fit: cover;" />
-  </a>
-</div>
-
-<strong><a href="https://youtu.be/7kSSMUdl7_k">STurn any BLDC motor to a Smartknob? （YouTube）</a></strong>
 
 ## External Resources
 Projects and creators I learn from or reference, separated from my own builds.
