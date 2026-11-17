@@ -127,7 +127,7 @@ General Arduino builds including control, robotics, and simple instrumentation.
 
 <div align="center">
   <a href="https://youtu.be/1RsmJy6X9Yg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/1RsmJy6X9Yg/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/1RsmJy6X9Yg/hqdefault.jpg';" alt="A Simple Arduino-based Oscilloscope" width="800" height="450" style="object-fit: cover;" />
+    <img src="https://img.youtube.com/vi/1RsmJy6X9Yg/hqdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/1RsmJy6X9Yg/hqdefault.jpg';" alt="A Simple Arduino-based Oscilloscope" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
@@ -213,7 +213,7 @@ Published: 2025/05/06
 
 <div align="center">
   <a href="https://youtu.be/Q5oMYjQe5-g" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/Q5oMYjQe5-g/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/Q5oMYjQe5-g/hqdefault.jpg';" alt="ESP32 Remote Control" width="800" height="450" style="object-fit: cover;" />
+    <img src="https://img.youtube.com/vi/Q5oMYjQe5-g/hqdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/Q5oMYjQe5-g/hqdefault.jpg';" alt="ESP32 Remote Control" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
@@ -278,7 +278,7 @@ Charging and power-management related modules.
 
 <div align="center">
   <a href="https://youtu.be/ArDzwmH5L2k" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/ArDzwmH5L2k/hqdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/ArDzwmH5L2k/hqdefault.jpg';" alt="TP5400 Charging Board" width="800" height="450" style="object-fit: cover;" />
+    <img src="https://img.youtube.com/vi/ArDzwmH5L2k/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/ArDzwmH5L2k/maxresdefault.jpg';" alt="TP5400 Charging Board" width="800" height="450" style="object-fit: cover;" />
   </a>
 </div>
 
