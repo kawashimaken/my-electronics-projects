@@ -112,7 +112,11 @@
 
 * [Self-balancing Car](https://github.com/kawashimaken/self-balancing-car-00)  
   ESP32 + SimpleFOC two-wheel balancing robot with BNO055 IMU and a web tuning interface.  
-  [![Watch the video](https://img.youtube.com/vi/T2_N7V6W7gY/0.jpg)](https://youtu.be/T2_N7V6W7gY)
+ <div align="center">
+  <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" alt="Self-balancing car demo video" width="800" />
+  </a>
+</div>
 
 ## Others
 
